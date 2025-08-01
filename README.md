@@ -1,4 +1,4 @@
-Q1 Retail Sales Dashboard 2025
+#Q1 Retail Sales Dashboard 2025
 
 This Power BI project visualizes the retail sales performance of a small electronics store for the first quarter of 2025 (January to March). The dashboard provides clear insights into product performance, revenue trends, and store activity to help stakeholders make data-driven decisions.
 
