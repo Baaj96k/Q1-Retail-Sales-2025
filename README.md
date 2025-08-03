@@ -15,7 +15,9 @@ https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_d
 
 Data Source:  
 A CSV file containing product sales transactions.
-CSV: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_q1_2025_large.csv
+
+CSV: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_q1_2025_large.csv
 
 Tools Used:
 - Microsoft Power BI (Visulisation)
