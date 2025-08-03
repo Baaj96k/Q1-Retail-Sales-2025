@@ -46,10 +46,10 @@ Dashboard Features:
 
 Note: Although the Top 3 products (Q4) are currently displayed using a visual-level Top N filter, a DAX-based solution is being developed and will be included in a future update.
 
-Updated: create DAX measures
+Update: Q4 create DAX measures
 
 1) Total Units Sold = SUM( 'retail_sales_q1_2025_large'[Units Sold])
 
 2) Product Rank = RANKX(ALL(retail_sales_q1_2025_large[Product]),[Total Units Sold],,DESC,DENSE)
 
-Q4 Updated: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/Q1_Retail_Sales_2025_Q4_Updated.png
+Q4 Update: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/Q1_Retail_Sales_2025_Q4_Updated.png
