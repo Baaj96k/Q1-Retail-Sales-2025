@@ -6,8 +6,12 @@ Project Overview:
 
 Objective:  
 To create an interactive Power BI dashboard that answers key business questions using Q1 2025 sales data.
-Power BI: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_project_Q1_2025.pbix
-Dashboard screenshot: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_dashboard.png
+
+Power BI: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_project_Q1_2025.pbix
+
+Dashboard screenshot: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_dashboard.png
 
 Data Source:  
 A CSV file containing product sales transactions.
