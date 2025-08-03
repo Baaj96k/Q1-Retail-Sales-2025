@@ -1,29 +1,19 @@
 Q1 Retail Sales Dashboard 2025
 
+Project Overview:
 This Power BI project visualizes the retail sales performance of a small electronics store for the first quarter of 2025 (January to March). The dashboard provides clear insights into product performance, revenue trends, and store activity to help stakeholders make data-driven decisions.
-
-Project Overview: 
 
 Objective:  
 To create an interactive Power BI dashboard that answers key business questions using Q1 2025 sales data.
 
-Power BI: 
-https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_project_Q1_2025.pbix
-
-Dashboard screenshot: 
-https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_dashboard.png
-
 Data Source:  
 A CSV file containing product sales transactions.
-
-CSV: 
-https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_q1_2025_large.csv
 
 Tools Used:
 - Microsoft Power BI (Visulisation)
 - Microsoft Excel (CSV)
 
-Question (KPI)
+Q&A (KPI)
 
 1. What is the total revenue for Q1 2025? = $785.37K
 
@@ -47,13 +37,23 @@ Dashboard Features:
 - Product Category Analysis: Bar chart comparing total revenue by product category (Laptops, Phones, Tablets, Accessories).
 - Store Performance: Pie chart showing unit sales by store.
 - Top Products: Table of products ranked by total units sold.
-- Top 3 Summary: Card visual listing top 3 products by volume.
 - Color Theme: Dark background with teal and green highlights for better visual contrast.
 - Interactive Filters: Product and store slicers for dynamic analysis.
 
+Links:
+Power BI: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_project_Q1_2025.pbix
+
+Dashboard screenshot: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_dashboard.png
+
+CSV: 
+https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_q1_2025_large.csv
+
 Note: Although the Top 3 products (Q4) are currently displayed using a visual-level Top N filter, a DAX-based solution is being developed and will be included in a future update.
 
-Update: Q4 create DAX measures
+Update: Q4 has now been updated obsolete dashboard as been removed. 
+Solution: create DAX measures to gain better results.
 
 1) Total Units Sold = SUM( 'retail_sales_q1_2025_large'[Units Sold])
 
