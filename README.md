@@ -6,7 +6,8 @@ Project Overview:
 
 Objective:  
 To create an interactive Power BI dashboard that answers key business questions using Q1 2025 sales data.
-Dashboard: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/powerbi_retail_sales_project_Updated.pbix
+Power BI: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_project_Q1_2025.pbix
+Dashboard screenshot: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/retail_sales_Q1_2025_dashboard.png
 
 Data Source:  
 A CSV file containing product sales transactions.
@@ -51,5 +52,3 @@ Update: Q4 create DAX measures
 1) Total Units Sold = SUM( 'retail_sales_q1_2025_large'[Units Sold])
 
 2) Product Rank = RANKX(ALL(retail_sales_q1_2025_large[Product]),[Total Units Sold],,DESC,DENSE)
-
-Q4 Update: https://github.com/Baaj96k/Q1-Retail-Sales-2025/blob/main/Q1_Retail_Sales_2025_Q4_Updated.png
